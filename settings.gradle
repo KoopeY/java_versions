@@ -1,2 +1,2 @@
 rootProject.name = 'java_versions'
-include 'java22', 'java23'
+include 'java22', 'java23', 'java24'
